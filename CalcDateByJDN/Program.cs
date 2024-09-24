@@ -19,7 +19,7 @@ class Program
 
     static int CalcJDN(int year, int month, int day)
     {
-        // Рахуємо коофіціенти
+        // Рахуємо коефіцієнти
         int a = (14 - month) / 12;
 
         int y = year + 4800 - a;
@@ -37,7 +37,7 @@ class Program
 
     static void PrintNextOneGregorianDate(int jdn)
     {
-        // Рахуємо коофіціенти
+        // Рахуємо коефіцієнти
         int a = jdn + 32044;
 
         int b = ((4 * a) + 3) / 146097;
