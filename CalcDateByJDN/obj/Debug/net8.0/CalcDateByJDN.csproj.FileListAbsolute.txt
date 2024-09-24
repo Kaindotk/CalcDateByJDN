@@ -1,0 +1,14 @@
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\bin\Debug\net8.0\CalcDateByJDN.exe
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\bin\Debug\net8.0\CalcDateByJDN.deps.json
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\bin\Debug\net8.0\CalcDateByJDN.runtimeconfig.json
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\bin\Debug\net8.0\CalcDateByJDN.dll
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\bin\Debug\net8.0\CalcDateByJDN.pdb
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.AssemblyInfoInputs.cache
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.AssemblyInfo.cs
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.csproj.CoreCompileInputs.cache
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.dll
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\refint\CalcDateByJDN.dll
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.pdb
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\CalcDateByJDN.genruntimeconfig.cache
+E:\Projects\csharp\CalcDateByJDN\CalcDateByJDN\obj\Debug\net8.0\ref\CalcDateByJDN.dll

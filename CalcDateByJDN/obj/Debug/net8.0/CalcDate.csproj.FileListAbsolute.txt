@@ -1,0 +1,14 @@
+E:\Projects\csharp\CalcDate\CalcDate\bin\Debug\net8.0\CalcDate.exe
+E:\Projects\csharp\CalcDate\CalcDate\bin\Debug\net8.0\CalcDate.deps.json
+E:\Projects\csharp\CalcDate\CalcDate\bin\Debug\net8.0\CalcDate.runtimeconfig.json
+E:\Projects\csharp\CalcDate\CalcDate\bin\Debug\net8.0\CalcDate.dll
+E:\Projects\csharp\CalcDate\CalcDate\bin\Debug\net8.0\CalcDate.pdb
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.AssemblyInfoInputs.cache
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.AssemblyInfo.cs
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.csproj.CoreCompileInputs.cache
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.dll
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\refint\CalcDate.dll
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.pdb
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\CalcDate.genruntimeconfig.cache
+E:\Projects\csharp\CalcDate\CalcDate\obj\Debug\net8.0\ref\CalcDate.dll
